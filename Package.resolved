@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Tree2",
+        "repositoryURL": "https://github.com/eonil/swift-tree-v2",
+        "state": {
+          "branch": "master",
+          "revision": "b4b54a581b0ef80429e7d6b13e3fb0bc76b0cfa2",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
