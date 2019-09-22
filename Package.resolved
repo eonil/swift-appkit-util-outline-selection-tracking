@@ -2,11 +2,20 @@
   "object": {
     "pins": [
       {
+        "package": "TestUtil",
+        "repositoryURL": "https://github.com/eonil/swift-test-util",
+        "state": {
+          "branch": "master",
+          "revision": "3c803bc3e2a769280ec6ac4f6dc4f5f2270b46c3",
+          "version": null
+        }
+      },
+      {
         "package": "Tree2",
         "repositoryURL": "https://github.com/eonil/swift-tree-v2",
         "state": {
           "branch": "master",
-          "revision": "b4b54a581b0ef80429e7d6b13e3fb0bc76b0cfa2",
+          "revision": "74bc76481fead160998659aee9468d4d569fe7fe",
           "version": null
         }
       }
